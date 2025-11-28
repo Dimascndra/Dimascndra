@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dmscndraa)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/dmscndraa/)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=dimascndra&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/dimascndra)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=dimascndra&data=followers,repositories,commits&theme=viridescent)](https://github.com/dimascndra)
 
 ### Glad to see you here! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimascndra&label=Profile%20views&color=0e75b6&style=flat" alt="dimascndra" /> </p>
